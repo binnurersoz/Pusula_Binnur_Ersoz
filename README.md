@@ -1,5 +1,5 @@
-# Binnur Ersöz
-# binnurersoz@gmail.com
+**Author:** Binnur Ersöz  
+**Email:** binnurersoz@gmail.com 
 
 ## Project Overview
 This project performs exploratory data analysis (EDA) on a patient treatment dataset. The analysis includes:
@@ -16,13 +16,17 @@ The dataset contains 2,235 records with 13 columns related to patient informatio
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/binnurersoz/Pusula_Binnur_Ersoz.git
+   cd Pusula_Binnur_Ersoz
 2. Install required Python packages:
+    ```bash
     pip install pandas numpy matplotlib seaborn missingno scikit-learn
 3. Place the dataset Talent_Academy_Case_DT_2025.xlsx in the project directory.
-4. Run the main notebook or script:
-    python main.py or jupyter notebook
+4. Run the notebook or script:
+    ```bash
+    jupyter notebook Pusula_Binnur_Ersöz.ipynb
+    or
+    python main.py
 5. The code will generate visualizations and provide descriptive statistics of the dataset.
 
 ## Key Notes
